@@ -26,8 +26,10 @@ public class C04_DoWhileLoop_TamKare {
             }
             basla++;
         } while (basla*basla<=sayi);
+        
+        System.out.println(tamkareMi);
      */
-
+       
 
 
         // 2.yontem
